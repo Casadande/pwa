@@ -1,0 +1,15 @@
+.main {
+
+}
+
+.title {
+    text-align: center;
+    font-size: 3em;
+    margin: 1em;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1em;
+    display: inline-block;
+}
